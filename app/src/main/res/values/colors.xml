@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#121214</color>
+    <color name="bg_display">#1D1D22</color>
+    <color name="btn_numeric">#2A2A32</color>
+    <color name="btn_numeric_pressed">#3E3E4A</color>
+    <color name="btn_operator">#FF9F0A</color>
+    <color name="btn_operator_pressed">#FFB340</color>
+    <color name="btn_equal">#0A84FF</color>
+    <color name="btn_equal_pressed">#409CFF</color>
+    <color name="btn_action">#FF453A</color>
+    <color name="btn_action_pressed">#FF6961</color>
+    <color name="btn_base">#5E5CE6</color>
+    <color name="btn_base_pressed">#7D7AFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AEAEB2</color>
+</resources>

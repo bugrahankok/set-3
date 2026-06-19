@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aesthetic Calculator</string>
+    <string name="title_history">Calculation History</string>
+    <string name="clear_history">Clear History</string>
+    <string name="btn_history">History</string>
+    <string name="mode_seq">Seq</string>
+    <string name="mode_expr">Expr</string>
+</resources>
